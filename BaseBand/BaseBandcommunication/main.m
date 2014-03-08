@@ -2,7 +2,7 @@
 //  main.m
 //  BaseBandcommunication
 //
-//  Created by xiao chengfei on 14-3-8.
+//  Created by CrespoXiao on 14-3-8.
 //  Copyright (c) 2014年 CrespoXiao. All rights reserved.
 //
 
